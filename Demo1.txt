@@ -2,3 +2,5 @@ This is the first demo line
 This is gonna be the second line
 This is from dev2
 and i am addingnto this file
+This is dev1 updating the code 
+Well we dont know what dev2 will do now 
